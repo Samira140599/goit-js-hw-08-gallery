@@ -13,7 +13,7 @@ const btnCloseModal = document.querySelector(
 const btnSlideLeft = document.querySelector('button[data-action="left-arrow"]');
 const btnSlideRight = document.querySelector(
   'button[data-action="right-arrow"]',
-);
+)
 
 const galleryContainer = document.querySelector('.js-gallery');
 const cardsMarkup = createGalleryCardsMarkup(images);
