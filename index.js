@@ -1,5 +1,5 @@
 'use strict'
-import images from '../gallery-items.js';
+import images from './gallery-items.js';
 
 let currentIndex = 0;
 
