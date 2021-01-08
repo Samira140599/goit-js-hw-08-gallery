@@ -132,7 +132,7 @@ body {
 	cursor: pointer;
 	transition: background-color var(--animation-duration) var(--timing-function);
 	outline: none;
-	background-image: url("../images/icon-close.svg");
+	background-image: url("images/icon-close.svg");
 	background-position: center;
 	background-size: 60%;
 	background-repeat: no-repeat;
@@ -161,7 +161,7 @@ body {
 	cursor: pointer;
 	transition: background-color var(--animation-duration) var(--timing-function);
 	outline: none;
-	background-image: url("../images/right.svg");
+	background-image: url("images/right.svg");
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -185,7 +185,7 @@ body {
 	cursor: pointer;
 	transition: background-color var(--animation-duration) var(--timing-function);
 	outline: none;
-	background-image: url("../images/left.svg");
+	background-image: url("images/left.svg");
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
